@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi there, I'm Salma! 👋
 
-<!--
-**SalmaGulzari/SalmaGulzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a second-year Computer Science student passionate about software development, problem-solving, and building practical applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Tech Stack & Tools
+* *Languages:* Python, Java, C++, JavaScript
+* *Web Development:* HTML5, CSS3, JavaScript
+* *Tools & Version Control:* Git, GitHub, VS Code
+* *Core CS Interests:* Data Structures & Algorithms, Object-Oriented Programming, Database Management
+
+---
+
+### 🌱 What I'm currently working on...
+* Enhancing my programming skills through academic coursework and hands-on coding tasks (like my [CodeAlpha Python Projects](https://github.com/SalmaGulzari/CodeAlpha_Python_projects_September)).
+* Learning advanced Git & GitHub workflows (check out my [Git Fundamentals Repo](https://github.com/SalmaGulzari/technexus-git-fundamentals)).
+* Practicing data structures and problem-solving daily.
+
+* 🔭 I’m currently looking for collaborative projects or beginner-friendly internships.
+* 📫 How to reach me: Salmagulzari32@gmail.com
